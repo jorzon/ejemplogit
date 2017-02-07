@@ -25,14 +25,14 @@ body{
 	color: #4A4A4A;
 	background: url(http://i1-news.softpedia-static.com/images/news2/There-s-a-Gray-Version-of-Ubuntu-15-04-s-Default-Wallpaper-and-It-Looks-Awesome-475581-2.jpg) 0 0 no-repeat;
 	background-size: cover;
-	font-family: 'Lato', sans-serif;
+	
 }
 section.principal{
 	padding-top: 20px;
 }
 .container {
 	width: 100%;
-	margin: 0 auto;
+	
 }
 h1#logo{
 	background-image: url('../img/logo.png');
