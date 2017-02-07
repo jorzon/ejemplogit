@@ -1,0 +1,17 @@
+Bitbucket y  github : es un servicio que te permiten administrar tus proyectos usando el popular sistema de control de versiones Git.
+
+que es un controlador de versiones?
+
+es un sistema que almacena los cambios realizados en un archivo o en varios archivos a lo largo del tiempo.
+
+
+
+
+
+por que elgir git?
+
+ventajas:
+trabajo en equipo
+
+
+
