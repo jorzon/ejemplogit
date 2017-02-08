@@ -17,3 +17,12 @@ trabajo en equipo
 
 git branch : te muestra las ramas 
 
+
+git branch nombre : crear rama 
+
+
+
+
+REPOSITORIO : PROYECTO .... HAY REPOSITORIOS REMOTOS (GITHUB)Y LOCALES (PC).
+
+2017
