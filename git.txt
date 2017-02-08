@@ -15,3 +15,5 @@ trabajo en equipo
 
 
 
+git branch : te muestra las ramas 
+

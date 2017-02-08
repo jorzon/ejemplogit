@@ -47,10 +47,7 @@ h1#logo a{
 	height: 100%;
 	/*para asegurarse que en enlace ocupe el 100% de alto y ancho del bloque*/
 }
-h1#logo a span{
-	visibility: hidden;
-	/*para ocultar el texto*/
-}
+
 .bt-menu {
 	position: fixed;
 	top: 0;

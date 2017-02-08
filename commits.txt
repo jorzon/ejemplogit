@@ -1,0 +1,17 @@
+commit fd97330a22494d89baf72ac6e1cb7db2549db641
+Author: Jorzon <jorzdel@gmail.com>
+Date:   Tue Feb 7 15:52:12 2017 -0500
+
+    agregar imagenes checkout
+
+commit 9bd727bdbebe380e3bcffabdeed7cbb3de6a0751
+Author: Jorzon <jorzdel@gmail.com>
+Date:   Tue Feb 7 15:45:59 2017 -0500
+
+     estilos
+
+commit 51cfe97b298955f6929aa7a206da01c01aec2304
+Author: Jorzon <jorzdel@gmail.com>
+Date:   Tue Feb 7 15:45:16 2017 -0500
+
+    DATOS
